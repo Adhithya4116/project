@@ -64,8 +64,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 #### OUTPUT:
-![image](https://github.com/JoyceBeulah/project/assets/118343698/2fc70ef1-f230-47e2-972c-d1da822b1dd5)
-![image](https://github.com/JoyceBeulah/project/assets/118343698/b5178e13-970d-4d06-94db-d3c88bff2f4a)
+![image](https://github.com/Adhithya4116/project/assets/118707079/be9a0f52-9ffe-45e4-b391-445f97dec01c)
+![image](https://github.com/Adhithya4116/project/assets/118707079/525444c2-651a-4879-a135-d525c85743aa)
 
 ### II)Perform handwritting detection in an image
 
@@ -97,7 +97,7 @@ image_path = 'img proj.jpg'
 detect_handwriting(image_path)
 ```
 #### OUTPUT:
-![image](https://github.com/JoyceBeulah/project/assets/118343698/7b4668cf-f7e4-495a-a667-7ce87c92a4f9)
+![image](https://github.com/Adhithya4116/project/assets/118707079/f479e55a-79a9-4a93-838a-01c3a52e093d)
 
 ### III)Perform object detection with label in an image
 
@@ -132,7 +132,7 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ```
 
 #### OUTPUT:
-![image](https://github.com/JoyceBeulah/project/assets/118343698/e0c50cf2-4c0d-4608-b780-70ea5a7060e0)
+![image](https://github.com/Adhithya4116/project/assets/118707079/888deb56-8d63-49d6-b809-33f18c35ccd7)
 
 ## Result:
 Thus, a python program using OpenCV for following image manipulations is done successfully
